@@ -10,4 +10,21 @@ body{
     font-size: 21px;
     line-height: 135%;
     font-family: "Open Sans", sans-serif;
+    color: #698b63;
+    background-color: #efe6ca;
+    background-image: url("img/AdobeStock_340839611.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+ul{
+    color: #637f8b;
+}
+
+.title{
+    color: #2782aa;
+    text-decoration:underline;
+}
+
+p{
+    text-align: center
 }
